@@ -19,7 +19,7 @@ public class Main {
             try{
                 surfaceArea = scanner.nextDouble();
             }catch (InputMismatchException e){
-                System.out.println("eee");
+                System.out.println("eede");
                 scanner.nextLine();
             }
             if (surfaceArea<0.01){
